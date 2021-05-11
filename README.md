@@ -1,50 +1,70 @@
-# Full-Stack-Development-Projects 
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-## Project 1  Order Management and Online Food Ordering System Based on Spring and Hibernates
+In the project directory, you can run:
 
-Searching and order management system are widely used in major online companies, such as Amazon, Airbnb, Doordash, Uber and Lyft.
-In this project, I learnt how to build an online system with product and order management functions and deployed this project on 
-Cloud with Spring, Hibernate, Microservices, Spring MVC, Webflow, etc.
+### `npm start`
 
-skills: Spring, Hibernate, Cloud, Online Ordering System, Microservices
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
+### `npm test`
 
-## Project 2 SpaceX Launch Data Analysis and Visualization Based on React
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-In this project, I used SpaceX launch data such as rocket launch timing and star chain satellite position for visualization and 
-front-end development. I had quite a lot experience with React JS, relevant front-end technologies, and data interaction functions
+### `npm run build`
 
-skills: React/JSX, Redux, ECMAScript 6, Promise, LESS/SASS, Webpack, JSLint, NPM, Yeoman
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Project 3 Personalized Job Recommendation Engine based on Amazon Web Services (AWS)
+### `npm run eject`
 
-I learned how to design and implement a recommendation engine operated at scale, by getting my hands dirty on developing a 
-job recommendation and search engine from the ground up. Meanwhile, I deployed a proven set of back-end services and databases,
-and learned how to test and maintain it on AWS. 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-skills: Front-end, Back-end, MySQL, REST API, Java Servlet, OOD, Cloud Computing, Amazon Web Services
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Project 4 Personalized News Recommendation Android App
+## Learn More
 
-Multiple Android frameworks were used to build this Android App. The key functions of this app: allows users to like or skip news,
-to search news and recommend news for users based on their locations. 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-skills : Retrofit, RxJava2, Fresco, EventBus, Room, JetPack, RecyclerView, BottomBar, Google Component Architecture
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
-## Project 5  Twitch+: A Personalized Twitch Resources Recommendation Engine
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Designed and built a full-stack web application for users to search twitch resources (stream/video/clip) and get recommendations. 
-Built a web page with rich + user friendly experience using React and Ant Design
-Explored multiple recommendation algorithms and extracted game information from Twitch resources to implement a Content-based algorithm.
-Deployed the service to AWS EC2 for better stability.
+### Analyzing the Bundle Size
 
-skills : React and Ant Design, MySQL, REST API, Java Servlet, Cloud Computing, AWS, recommendation algorithms
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
